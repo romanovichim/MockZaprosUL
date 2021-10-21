@@ -1,0 +1,72 @@
+{
+  "data": [
+    {
+      "client_id": "1111111111",
+      "user_id": "1000015123",
+      "employe_id": "2222",
+      "type": "LOAN_APPL",
+      "type_description": "Заявка на кредит",
+      "tab": [
+        "OPERATION",
+        "ORDER"
+      ],
+      "system_source": "CREDITING",
+      "external_id": "5ee0162f-d832-4cdd-b22b-944176e632d3",
+      "external_create_at": "2020-12-03T17:32:28Z",
+      "external_update_at": "2020-12-03T17:32:28Z",
+      "state_description": "Описание платежа",
+      "state": "Создан",
+      "action_uri": "3212133sdfdsаf1",
+      "info": "<description>Сумма кредита 7 млн. на 24 месяца под 12% годовых</description>",
+      "visibility": [
+        {
+          "client_id": "1111111111",
+          "user_id": "1000015123",
+          "visible": true
+        },
+        {
+          "client_id": "1111111112",
+          "user_id": "1000015121",
+          "visible": false
+        }
+      ]
+    },
+    {
+      "client_id": "1111111111",
+      "user_id": "1000015123",
+      "employe_id": "2222",
+      "type": "LOAN_APPL",
+      "type_description": "Заявка на кредит",
+      "tab": [
+        "OPERATION",
+        "ORDER"
+      ],
+      "system_source": "CREDITING",
+      "external_id": "ef8851bc-21c8-4bce-968d-b0a98e05eb56",
+      "external_create_at": "2020-12-03T17:32:28Z",
+      "external_update_at": "2020-12-03T17:32:28Z",
+      "state_description": "Описание платежа",
+      "state": "Создан",
+      "action_uri": "3212133sdfdsаf1",
+      "info": "<description>Сумма кредита 7 млн. на 24 месяца под 12% годовых</description>",
+      "visibility": [
+        {
+          "client_id": "1111111111",
+          "user_id": "1000015123",
+          "visible": true
+        },
+        {
+          "client_id": "1111111112",
+          "user_id": "1000015121",
+          "visible": false
+        }
+      ]
+    }
+  ],
+  "pagination": {
+    "page_number": 2,
+    "page_size": 30,
+    "page_total": 50,
+    "count": 5000
+  }
+}
